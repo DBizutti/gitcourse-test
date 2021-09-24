@@ -5,8 +5,8 @@ namespace Hello_World {
         static void Main(string[] args) {
             
             Console.WriteLine("Hello World!");
-            Console.ReadLine();
             Console.WriteLine("Palmeiras não tem mundial!! XD");
+            Console.WriteLine("51 e pinga");
 
         }
     }
